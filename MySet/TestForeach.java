@@ -9,6 +9,7 @@ public class TestForeach {
         list.add("你");
         for(String str:list){
             System.out.println(str);
+            //输出我爱你
         }
 
     }
