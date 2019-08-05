@@ -1,7 +1,6 @@
 package ProPritecs;
 
 import java.util.Properties;
-
 public class TestPro {
     public static void main(String[] args) {
         Properties properties=new Properties();
